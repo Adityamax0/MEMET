@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=48&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Memet;Feel+Heard.+Always." alt="Memet" />
+# 💜 Memet
+## Feel Heard. Always.
 
 <br/>
 
@@ -385,9 +386,11 @@ If Memet's approach inspires your own project, that's exactly the point. 💜
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=24&duration=4000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Built+with+empathy.+Deployed+with+purpose.;Feel+heard.+Always.+💜" alt="Footer" />
+### *Built with empathy. Deployed with purpose.*
 
-<br/><br/>
+### 💜 *Feel Heard. Always.*
+
+<br/>
 
 *If this project resonates with you — give it a ⭐ and share it with someone who needs to feel heard.*
 
