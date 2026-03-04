@@ -655,7 +655,7 @@ function showTyping(){
 function hideTyping(){const t=document.getElementById('typing');if(t)t.remove();}
 
 var cw=['suicide','kill myself','end my life','want to die','self harm','cutting','hurt myself','no reason to live','cant go on','ending it'];
-function isCrisis(t){const l=t.toLowerCase();return cw.some(k=>l.includes(k));}
+function isCrisis(t){try{const l=t.toLowerCase();const words=['suicide','kill myself','end my life','want to die','self harm','cutting','hurt myself','no reason to live','cant go on','ending it'];return words.some(k=>l.includes(k));}catch(e){return false;}}
 function showCrisis(){
   const c=document.getElementById('msgs');const d=document.createElement('div');
   d.className='crisis-box';
@@ -710,7 +710,7 @@ async function send(){
   btn.disabled=false;
 }
 function onKey(e){if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();send();}}
-function resize(el){el.style.height='auto';el.style.height=Math.min(el.scrollHeight,100)+'px';}
+function resize(el){if(!el)return;el.style.height='auto';el.style.height=Math.min(el.scrollHeight,100)+'px';}
 </script>
 </body>
 </html>
