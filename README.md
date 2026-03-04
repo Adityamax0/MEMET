@@ -1,7 +1,6 @@
 <div align="center">
 
-# 💜 Memet
-## Feel Heard. Always.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Memet&fontSize=80&fontColor=C084FC&fontAlignY=38&desc=Feel%20Heard.%20Always.&descAlignY=58&descSize=24&descColor=E9D5FF" width="100%"/>
 
 <br/>
 
